@@ -1,1 +1,0 @@
-# reactnative-online-delivery-app
